@@ -52,7 +52,7 @@ POST /api/v1/astronauts
 ### Description
 Experience must be between 0 and 50.
 
-![Invalid Experience](screenshots/invalid-experience.png)
+![Invalid Experience](screenshots/inavlid-experience.png)
 
 ---
 
